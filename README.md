@@ -1,4 +1,3 @@
-# \# Project Title - edited by LEADER
-
+# Project Title - final agreed version
 BSIT Group Project Repository
 
